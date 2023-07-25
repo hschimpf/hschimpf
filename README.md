@@ -39,16 +39,16 @@ Hi! 🖖 I'm Hermann D. Schimpf, a full-stack developer born on Argentina, curre
 
 ### [Parallel SDK](https://github.com/hschimpf/parallel-sdk)
 
-I built a library that allows you to execute long-running tasks in parallel in PHP.
+A library that allows you to execute long-running tasks in parallel in PHP.
 The library provides a simple and easy-to-use way to schedule tasks to run in parallel, track the progress of tasks, and
 handle errors that occur during task execution.
 
-The library is a wrapper around [krakjoe/parallel](https://github.com/krakjoe/parallel) extension, and is designed to
+The library is a wrapper around [krakjoe/parallel](https://github.com/krakjoe/parallel) extension and is designed to
 work even if the `parallel` extension isn't available.
 
 ### [Bancard SDK](https://github.com/hschimpf/bancard-sdk)
 
-I built a library to integrate the [vPOS](https://www.bancard.com.py/vpos)
+A library to integrate the [vPOS](https://www.bancard.com.py/vpos)
 and [VentasQR](https://comercios.bancard.com.py/productos/ventas-qr) products of [Bancard](https://www.bancard.com.py/)
 _(a Paraguayan payment processing company)_.
 The library provides a simple and easy-to-use way to create and process Bancard payments.
@@ -66,9 +66,9 @@ The library provides a simple and easy-to-use way to create and process Bancard 
 ## Get in touch
 
 - Take a look to my Website: https://hds-solutions.net
-- See more of my work profile at LinkedIn: [Hermann D. Schimpf](https://linkedin.com/in/hschimpf)
+- See more of my work profile on LinkedIn: [Hermann D. Schimpf](https://linkedin.com/in/hschimpf)
 - I don't tweet a lot, but you can follow me on Twitter: [@hschimpf](https://twitter.com/hschimpf)
-- See some of my photography at Instagram: [@hschimpf](https://www.instagram.com/hschimpf)
+- See some of my photography on Instagram: [@hschimpf](https://www.instagram.com/hschimpf)
 - If you have any question, just email me: [hschimpf@hds-solutions.net](mailto:hschimpf@hds-solutions.net)
 
 ## My Strongest Feature
