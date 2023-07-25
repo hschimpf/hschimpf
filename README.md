@@ -53,6 +53,13 @@ and [VentasQR](https://comercios.bancard.com.py/productos/ventas-qr) products of
 _(a Paraguayan payment processing company)_.
 The library provides a simple and easy-to-use way to create and process Bancard payments.
 
+### [Laravel API Helpers (draft)](https://github.com/hschimpf/laravel-api-helpers/tree/1.x-dev)
+
+I'm currently working on a set of helper classes to build APIs in Laravel. The idea behind this is to simplify the
+filtering, ordering, relationship loading, and pagination of resource collections.
+
+### GitHub Stats
+
 [//]: # (00324B)
 [//]: # (006496)
 [//]: # (80B2CB)
