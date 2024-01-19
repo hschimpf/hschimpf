@@ -39,6 +39,12 @@ Hi! 🖖 I'm Hermann D. Schimpf, a full-stack developer born on Argentina, curre
 
 ### [Parallel SDK](https://github.com/hschimpf/parallel-sdk)
 
+[![Latest stable version](https://img.shields.io/packagist/v/hds-solutions/parallel-sdk?style=flat-square&label=latest&color=009664)](https://github.com/hschimpf/parallel-sdk/releases/latest)
+[![License](https://img.shields.io/github/license/hds-solutions/parallel-sdk?style=flat-square&color=80B2CB)](https://github.com/hschimpf/parallel-sdk/blob/main/LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/hds-solutions/parallel-sdk?style=flat-square&color=878787)](https://packagist.org/packages/hds-solutions/parallel-sdk)
+[![Required PHP version](https://img.shields.io/packagist/dependency-v/hds-solutions/parallel-sdk/php?style=flat-square&color=006496&logo=php&logoColor=white)](https://packagist.org/packages/hds-solutions/parallel-sdk)
+[![CI Tests](https://img.shields.io/github/actions/workflow/status/hds-solutions/parallel-sdk/ci.yml?style=flat-square&logo=github&label=tests )](https://github.com/hschimpf/parallel-sdk/actions/workflows/ci.yml)
+
 A library that allows you to execute long-running tasks in parallel in PHP.
 The library provides a simple and easy-to-use way to schedule tasks to run in parallel, track the progress of tasks, and
 handle errors that occur during task execution.
@@ -48,12 +54,22 @@ work even if the `parallel` extension isn't available.
 
 ### [Bancard SDK](https://github.com/hschimpf/bancard-sdk)
 
+[![Latest stable version](https://img.shields.io/packagist/v/hds-solutions/bancard-sdk?style=flat-square&label=latest&color=009664)](https://github.com/hschimpf/bancard-sdk/releases/latest)
+[![License](https://img.shields.io/github/license/hschimpf/bancard-sdk?style=flat-square&color=80B2CB)](https://github.com/hschimpf/bancard-sdk/blob/main/LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/hds-solutions/bancard-sdk?style=flat-square&color=878787)](https://packagist.org/packages/hds-solutions/bancard-sdk)
+[![Required PHP version](https://img.shields.io/packagist/dependency-v/hds-solutions/bancard-sdk/php?style=flat-square&color=006496&logo=php&logoColor=white)](https://packagist.org/packages/hds-solutions/bancard-sdk)
+
 A library to integrate the [vPOS](https://www.bancard.com.py/vpos)
 and [VentasQR](https://comercios.bancard.com.py/productos/ventas-qr) products of [Bancard](https://www.bancard.com.py/)
 _(a Paraguayan payment processing company)_.
 The library provides a simple and easy-to-use way to create and process Bancard payments.
 
 ### [Laravel API Helpers](https://github.com/hschimpf/laravel-api-helpers)
+
+[![Latest stable version](https://img.shields.io/packagist/v/hds-solutions/laravel-api-helpers?style=flat-square&label=latest&color=009664)](https://github.com/hschimpf/laravel-api-helpers/releases/latest)
+[![License](https://img.shields.io/github/license/hschimpf/laravel-api-helpers?style=flat-square&color=80B2CB)](https://github.com/hschimpf/laravel-api-helpers/blob/main/LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/hds-solutions/laravel-api-helpers?style=flat-square&color=878787)](https://packagist.org/packages/hds-solutions/laravel-api-helpers)
+[![Required PHP version](https://img.shields.io/packagist/dependency-v/hds-solutions/laravel-api-helpers/php?style=flat-square&color=006496&logo=php&logoColor=white)](https://packagist.org/packages/hds-solutions/laravel-api-helpers)
 
 A set of helper classes to build APIs in Laravel. The idea behind this is to simplify the filtering, ordering,
 relationship loading, and pagination of resource collections.
