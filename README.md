@@ -15,7 +15,7 @@ Hi! 🖖 I'm Hermann D. Schimpf, a full-stack developer born on Argentina, curre
 - **MySQL**, where optimizing queries feels like a never-ending quest to find the mythical index that will unlock
   ultimate performance.
 - **Pest**, where 'test-driven development' becomes 'bug-driven extinction'.
-- **Vite**, because waiting for your code to build is so last-century.
+- **Vite**, because life's too short to watch webpack spinners.
 - **Bootstrap**, to ensure that all websites look the same, because who needs creativity when you can have uniformity?
 - **AWS**, the cloud giant that seems all-powerful until you encounter its impenetrable documentation.
 - **serverless**, the magic of cloud computing, where servers are like mythical creatures you know they exist, but you
