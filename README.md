@@ -31,9 +31,8 @@ Hi! 🖖 I'm Hermann D. Schimpf, a full-stack developer born on Argentina, curre
 
 ### Currently, learning more about
 
-- Vite
-- Pest
-- CI/CD
+- Vue.js
+- CI/CD 🤖
 
 ## Some of my work
 
