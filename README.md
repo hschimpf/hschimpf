@@ -36,6 +36,16 @@ Hi! 🖖 I'm Hermann D. Schimpf, a full-stack developer born on Argentina, curre
 
 ## Some of my work
 
+### [Laravel API Helpers](https://github.com/hschimpf/laravel-api-helpers)
+
+[![Latest stable version](https://img.shields.io/packagist/v/hds-solutions/laravel-api-helpers?style=flat-square&label=latest&color=009664)](https://github.com/hschimpf/laravel-api-helpers/releases/latest)
+[![License](https://img.shields.io/github/license/hschimpf/laravel-api-helpers?style=flat-square&color=80B2CB)](https://github.com/hschimpf/laravel-api-helpers/blob/main/LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/hds-solutions/laravel-api-helpers?style=flat-square&color=878787)](https://packagist.org/packages/hds-solutions/laravel-api-helpers)
+[![Required PHP version](https://img.shields.io/packagist/dependency-v/hds-solutions/laravel-api-helpers/php?style=flat-square&color=006496&logo=php&logoColor=white)](https://packagist.org/packages/hds-solutions/laravel-api-helpers)
+
+A set of helper classes to build APIs in Laravel. The idea behind this is to simplify the filtering, ordering,
+relationship loading, and pagination of resource collections.
+
 ### [Parallel SDK](https://github.com/hschimpf/parallel-sdk)
 
 [![Latest stable version](https://img.shields.io/packagist/v/hds-solutions/parallel-sdk?style=flat-square&label=latest&color=009664)](https://github.com/hschimpf/parallel-sdk/releases/latest)
@@ -62,16 +72,6 @@ A library to integrate the [vPOS](https://www.bancard.com.py/vpos)
 and [VentasQR](https://comercios.bancard.com.py/productos/ventas-qr) products of [Bancard](https://www.bancard.com.py/)
 _(a Paraguayan payment processing company)_.
 The library provides a simple and easy-to-use way to create and process Bancard payments.
-
-### [Laravel API Helpers](https://github.com/hschimpf/laravel-api-helpers)
-
-[![Latest stable version](https://img.shields.io/packagist/v/hds-solutions/laravel-api-helpers?style=flat-square&label=latest&color=009664)](https://github.com/hschimpf/laravel-api-helpers/releases/latest)
-[![License](https://img.shields.io/github/license/hschimpf/laravel-api-helpers?style=flat-square&color=80B2CB)](https://github.com/hschimpf/laravel-api-helpers/blob/main/LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/hds-solutions/laravel-api-helpers?style=flat-square&color=878787)](https://packagist.org/packages/hds-solutions/laravel-api-helpers)
-[![Required PHP version](https://img.shields.io/packagist/dependency-v/hds-solutions/laravel-api-helpers/php?style=flat-square&color=006496&logo=php&logoColor=white)](https://packagist.org/packages/hds-solutions/laravel-api-helpers)
-
-A set of helper classes to build APIs in Laravel. The idea behind this is to simplify the filtering, ordering,
-relationship loading, and pagination of resource collections.
 
 ### GitHub Stats
 
