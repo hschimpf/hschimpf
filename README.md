@@ -54,7 +54,6 @@ relationship loading, and pagination of resource collections.
 [![Total Downloads](https://img.shields.io/packagist/dt/hds-solutions/parallel-sdk?style=flat-square&color=747474)](https://packagist.org/packages/hds-solutions/parallel-sdk)
 [![Monthly Downloads](https://img.shields.io/packagist/dm/hds-solutions/parallel-sdk?style=flat-square&color=747474&label)](https://packagist.org/packages/hds-solutions/parallel-sdk)
 [![Required PHP version](https://img.shields.io/packagist/dependency-v/hds-solutions/parallel-sdk/php?style=flat-square&color=006496&logo=php&logoColor=white)](https://packagist.org/packages/hds-solutions/parallel-sdk)
-[![CI Tests](https://img.shields.io/github/actions/workflow/status/hds-solutions/parallel-sdk/ci.yml?style=flat-square&logo=github&label=tests )](https://github.com/hschimpf/parallel-sdk/actions/workflows/ci.yml)
 
 A library that allows you to execute long-running tasks in parallel in PHP.
 The library provides a simple and easy-to-use way to schedule tasks to run in parallel, track the progress of tasks, and
